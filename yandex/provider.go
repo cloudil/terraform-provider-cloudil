@@ -16,10 +16,10 @@ import (
 
 const (
 	defaultMaxRetries      = 5
-	defaultEndpoint        = "api.cloud.yandex.net:443"
+	defaultEndpoint        = "api.cloudil.com:443"
 	defaultStorageEndpoint = "storage.yandexcloud.net"
 	defaultYMQEndpoint     = "message-queue.api.cloud.yandex.net"
-	defaultRegion          = "ru-central1"
+	defaultRegion          = "il1-a"
 )
 
 // Global MutexKV
